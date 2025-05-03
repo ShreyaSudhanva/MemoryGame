@@ -1,3 +1,4 @@
+// App.jsx
 import React, { useState, useEffect } from "react";
 import GameBoard from "./components/GameBoard";
 
@@ -72,10 +73,10 @@ export default function App() {
   };
 
   return (
-    <div className="min-h-screen flex flex-col items-center justify-center bg-gray-100 p-4">
+    <div className="min-h-screen flex flex-col items-center justify-center bg-gray-10 p-4 w-full">
       <h1 className="text-3xl font-bold mb-4">🧠 Memory Match Game</h1>
       <p className="mb-2">Moves: {moves}</p>
-      <div className="flex justify-center">
+      <div className="flex justify-center w-full">
         <GameBoard cards={cards} onCardClick={handleCardClick} />
       </div>
       <button onClick={resetGame} className="mt-4 px-4 py-2 bg-blue-500 text-white rounded hover:bg-blue-600">
