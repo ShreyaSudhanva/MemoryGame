@@ -45,3 +45,10 @@ To deploy the game on GitHub Pages
 npm run deploy
 ```
 
+
+### Screenshots
+
+<img width="1470" alt="Screenshot 2025-05-03 at 8 05 41 PM" src="https://github.com/user-attachments/assets/6fe84acf-0e9a-4601-8e57-448ae61d6bf0" />
+<img width="1470" alt="Screenshot 2025-05-03 at 8 06 02 PM" src="https://github.com/user-attachments/assets/ae1798d7-1780-46a8-95f5-03d4245f994a" />
+<img width="1470" alt="Screenshot 2025-05-03 at 8 06 51 PM" src="https://github.com/user-attachments/assets/99dbe5b6-83ff-4d28-a1eb-d517f26b11fa" />
+
